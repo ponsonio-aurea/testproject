@@ -1,0 +1,40 @@
+{
+  "base_scm_service_uri": "http://gitserver:3001/testproject.git?branch=master",
+  "files_relative_to_base_uri":[
+    {
+      "package_name": "com.devfactory.testserver.testproject",
+      "file_name": "App.java",
+      "path_in_scm": "src/main/java/com/devfactory/testserver/testproject/App.java"
+    },
+    {
+      "package_name": "com.devfactory.testserver.testproject",
+      "file_name": "Child.java",
+      "path_in_scm": "src/main/java/com/devfactory/testserver/testproject/Child.java"
+    },
+    {
+      "package_name": "com.devfactory.testserver.testproject",
+      "file_name": "Identifiable.java",
+      "path_in_scm": "src/main/java/com/devfactory/testserver/testproject/Identifiable.java"
+    },
+    {
+      "package_name": "com.devfactory.testserver.testproject",
+      "file_name": "InMemoryRepository.java",
+      "path_in_scm": "src/main/java/com/devfactory/testserver/testproject/InMemoryRepository.java"
+    },
+    {
+      "package_name": "com.devfactory.testserver.testproject",
+      "file_name": "Parent.java",
+      "path_in_scm": "src/main/java/com/devfactory/testserver/testproject/Parent.java"
+    },
+    {
+      "package_name": "com.devfactory.testserver.testproject",
+      "file_name": "RepositoryException.java",
+      "path_in_scm": "src/main/java/com/devfactory/testserver/testproject/RepositoryException.java"
+    },
+    {
+      "package_name": "com.devfactory.testserver.testproject",
+      "file_name": "InMemoryRepositoryTest.java",
+      "path_in_scm": "src/test/java/com/devfactory/testserver/testproject/InMemoryRepositoryTest.java"
+    }
+  ]
+}
